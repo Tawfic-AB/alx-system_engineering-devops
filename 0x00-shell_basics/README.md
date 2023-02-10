@@ -4,3 +4,4 @@
 3-displaying contents of current directory in a long format
 4-displaying contents of current directory including hidden files, in a long format
 5-displaying contents of current directory in a long format with user/group IDs displayed numerically, including hidden files
+10-changing directory to the previous one
