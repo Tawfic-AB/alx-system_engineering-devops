@@ -1,2 +1,0 @@
-#!/bin/bash
-tmp_dir=$(mktemp -d my_first_directory: directory)
