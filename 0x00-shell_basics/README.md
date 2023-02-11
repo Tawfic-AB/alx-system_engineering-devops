@@ -6,4 +6,5 @@
 5-displaying contents of current directory in a long format with user/group IDs displayed numerically, including hidden files
 6-creating a script to creat a temporary directory
 7-moving the file betty to the temporary directory
+8-deleting betty
 10-changing directory to the previous one
