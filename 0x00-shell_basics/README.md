@@ -16,3 +16,4 @@
 15-moving all files beginning with an uppercase letter
 16-deleting all files in current working directory that end with the character ~
 17-creating directories
+18-displaying all contents of the current directory separated by commas(,) 
