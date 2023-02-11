@@ -14,4 +14,5 @@
 13-creating a symbolic link
 14-copying HTML files
 15-moving all files beginning with an uppercase letter
-16-deleting all files in current working directory that end with the character ~ 
+16-deleting all files in current working directory that end with the character ~
+17-creating directories
