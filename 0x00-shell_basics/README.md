@@ -11,3 +11,4 @@
 10-changing directory to the previous one
 11-listing all files in current directory including parent and /boot directory
 12-printing the type of file
+13-creating a symbolic link
