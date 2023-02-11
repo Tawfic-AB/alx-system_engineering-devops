@@ -9,3 +9,4 @@
 8-deleting betty
 9-deleting the temporary directory
 10-changing directory to the previous one
+11-listing all files in current directory including parent and /boot directory
