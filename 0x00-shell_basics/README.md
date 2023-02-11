@@ -7,4 +7,5 @@
 6-creating a script to creat a temporary directory
 7-moving the file betty to the temporary directory
 8-deleting betty
+9-deleting the temporary directory
 10-changing directory to the previous one
