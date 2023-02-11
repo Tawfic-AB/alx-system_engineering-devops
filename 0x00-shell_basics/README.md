@@ -13,3 +13,4 @@
 12-printing the type of file
 13-creating a symbolic link
 14-copying HTML files
+15-moving all files beginning with an uppercase letter
