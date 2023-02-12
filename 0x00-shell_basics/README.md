@@ -17,4 +17,5 @@
 16-deleting all files in current working directory that end with the character ~
 17-creating directories
 18-displaying all contents of the current directory separated by commas(,)
-19-creating a magic file
+
+19-Create a magic file school.mgc that can be used with the command file to detect School data files. Schooldata files always contain the string SCHOOL at offset 0.
