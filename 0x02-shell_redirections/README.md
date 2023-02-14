@@ -13,3 +13,5 @@
 6-Display the third line of the file iacta.
 
 7-Create a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
+8-Display into the file ls_cwd_content the result of the command ls -la.
