@@ -50,3 +50,9 @@ Include capital letters as well.
 21-Reverse input.
 
 22-Display all users and their home directories, sorted by users. Based on the the /etc/passwd file.
+
+23-Find all empty files and directories in the currentdirectory and all sub-directories.
+•Only the names of the files and directories should be displayed (not the entire path).
+•Hidden files should be listed.
+•One file name per line.
+•The listing should end with a new line.
