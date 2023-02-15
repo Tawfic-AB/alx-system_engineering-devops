@@ -48,3 +48,5 @@ Include capital letters as well.
 20-Remove all letters c and C from input.
 
 21-Reverse input.
+
+22-Display all users and their home directories, sorted by users. Based on the the /etc/passwd file.
