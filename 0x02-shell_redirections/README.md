@@ -15,3 +15,5 @@
 7-Create a file named exactly \*\\'"Beat School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
 8-Write into the file ls_cwd_content the result of thecommand ls -la.
+
+9-Duplicate the last line of the file iacta.
