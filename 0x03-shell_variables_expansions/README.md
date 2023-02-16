@@ -46,3 +46,8 @@
 15-Encode and decode text using the rot13 encryption.Assume ASCII.
 
 16-Print every other line from the input, starting with the first line.
+
+17-Add the two numbers stored in the environment variables WATER and STIR and prints the result.
+•WATER is in base water.
+•STIR is in base stir.
+•The result should be in base bestchol.
