@@ -64,3 +64,6 @@ Include capital letters as well.
 •The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb,file .b should be listed before file a, and file Rona should be listed after file jay).
 •One file name per line.
 •The listing should end with a new line.
+
+25-Create a script that decodes acrostics that use thefirst letter of each line.
+The ‘decoded’ message has to end with a new line.
