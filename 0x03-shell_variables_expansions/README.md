@@ -12,3 +12,6 @@
 
 6-Create a new local variable. 
 •Name: BEST •Value: School
+
+7-Create a new global variable.
+•Name: BEST •Value: School
