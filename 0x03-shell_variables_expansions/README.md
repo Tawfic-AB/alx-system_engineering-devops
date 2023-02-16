@@ -44,3 +44,5 @@
 •The script should display the number in base 16, followed by a new line.
 
 15-Encode and decode text using the rot13 encryption.Assume ASCII.
+
+16-Print every other line from the input, starting with the first line.
